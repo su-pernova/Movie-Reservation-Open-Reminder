@@ -1,13 +1,13 @@
 # 파이썬으로 영화 예매 오픈 알리미 만들기
 파이썬으로 영화 예매 오픈 알리미 만들기(텔레그램)
 
-**1) movie_crawling.py**
+**1) movie_crawling.py
 
 > 영화 예매 사이트를 크롤링하여 필요한 정보를 읽어오는 코드이다.
 
 > 내가 설정한 영화의 예매가 영화 예매 사이트에서 오픈 되었는지 확인하기 위해 필요하다.
 
-2) crawling_first.py
+**2) crawling_first.py
 
 movie_crawling.py의 코드를 포함하고 있으며,
 일정한 초 단위의 간격으로 movie_crawling.py의 코드부분을 반복실행하여
